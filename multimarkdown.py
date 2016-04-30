@@ -1,5 +1,5 @@
 """
-MultiMarkdown plugin. Options may be provided in config.
+MultiMarkdown plugin. Requires command-line tool. Options may be provided in config.
 "multimarkdown-options": [ 
     "--random" 
 ]
